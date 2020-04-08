@@ -6,6 +6,7 @@ def my_hash
   hash = {
     :Josh => tall
   }# return a valid hash with any key/value pair of your choice
+  hash
 end
 
 def pioneer
